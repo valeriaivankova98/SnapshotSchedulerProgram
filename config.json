@@ -1,0 +1,30 @@
+{
+    "snapshot_time":"22:53",
+    "nodes":[
+        {
+            "hostname":"192.168.50.128",
+            "username":"root",
+            "password":"12345678lera",
+            "vms": [
+                {
+                    "id":100,
+                    "type":"status"
+                },
+                {
+                    "id":101,
+                    "type":"icmp"
+                },
+                {
+                    "id":102,
+                    "type":"tcp",
+                    "attribute":"22"
+                },
+                {
+                    "id":103,
+                    "type":"tcp",
+                    "attribute":"22"
+                }
+            ]
+        }
+    ]
+} 
